@@ -83,11 +83,9 @@ I value intention, authenticity, and creating experiences that spark connection 
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSONita&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true"/>
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=SSONita&theme=vision-friendly-dark&hide_border=false"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSONita&theme=vision-friendly-dark&layout=compact&hide_border=false"/>
 </p>
 
 ---
@@ -100,7 +98,7 @@ I value intention, authenticity, and creating experiences that spark connection 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SSONita&icon=6&color=4" />
+  <img src="https://komarev.com/ghpvc/?username=SSONita&style=flate&color=yellow" width="150" alt="Profile Views" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
