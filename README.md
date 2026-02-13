@@ -1,10 +1,3 @@
-<!-- Top Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/5b/1a/74/5b1a748aae0ebb507fbebf17c9bbbb5a.gif" 
-       width="100%" 
-       alt="Banner"/>
-</p>
-
 <h1 align="center">✨ Welcome to My GitHub ✨</h1>
 <p align="center">I'm Nita — Student • Developer • Creator</p>
 
