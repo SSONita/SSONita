@@ -85,7 +85,7 @@ I value intention, authenticity, and creating experiences that spark connection 
 
 ### 🔝 Top Contributed Repo  
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SSONita&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true&v=1"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SSONita&limit=5&theme=shades-of-purple&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
